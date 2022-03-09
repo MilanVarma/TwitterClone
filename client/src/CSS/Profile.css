@@ -1,0 +1,19 @@
+.Profile{
+    padding: 20px;
+  width: 60%;
+   margin: 65px auto;
+   border: 1px solid grey;
+   height: 300px;
+   border-radius: 10px;
+   background-color: white;
+   
+}
+
+.Profile h1{
+    text-align: center;
+    color: #1976d2;
+}
+.Profile p{
+    font-size:x-large;
+    margin: 10px 0;
+}

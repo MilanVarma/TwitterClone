@@ -1,0 +1,12 @@
+.Twitternav{
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.Twitternav ul{
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    list-style-type:none;
+    padding: 10px 40px;
+}

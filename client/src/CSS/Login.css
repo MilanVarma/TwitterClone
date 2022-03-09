@@ -1,0 +1,33 @@
+.FormDetails{
+    width:25%;
+    margin:150px auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+}
+
+.FormDetails h1{
+    font-size: 60px;
+}
+
+.FormDetails input{
+    padding: 10px 20px;
+    font-size: large;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.FormDetails button{
+    padding: 10px 20px;
+    font-size: large;
+    border-radius: 20px;
+    background-color: rgb(0, 119, 255);
+    color: white;
+    border: 1px solid rgb(0, 119, 255);
+    cursor: pointer;
+}
+
+.FormDetails p{
+    cursor: pointer;
+}
